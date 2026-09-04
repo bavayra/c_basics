@@ -4,3 +4,6 @@ test
 .DS_Store
 .vscode/
 info
+main.c 
+test*
+*/test*
