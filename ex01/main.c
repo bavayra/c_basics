@@ -12,9 +12,9 @@
 
 #include <unistd.h>
 
-void	ft_print_alphabet(char c);
+void	ft_print_alphabet(void);
 
 int	main(void)
 {
-	ft_print_alphabet('a');
+	ft_print_alphabet();
 }
